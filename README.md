@@ -27,10 +27,8 @@ Selected pricing surfaces and error plots are in [`images/`](images/).
 
 ```bash
 pip install torch scipy numpy matplotlib
-python pinn.py
+python pinn_option_pricing.ipynb
 ```
-
-Or run the notebook: `pinn_european_call.ipynb`
 
 ## Tech Stack
 
